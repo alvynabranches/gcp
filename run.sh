@@ -1,0 +1,1 @@
+pip install --upgrade gcloud google-api-python-client google-cloud-storage cloud-storage webapp2
